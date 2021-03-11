@@ -169,6 +169,7 @@ debug.sf.auto_latch_unsignaled=0
 debug.sf.hw=0
 debug.sf.latch_unsignaled=1
 persist.demo.hdmirotationlock=false
+ro.config.avoid_gfx_accel=true
 persist.sys.sf.color_mode=9
 ro.hardware.egl=adreno
 ro.hardware.vulkan=adreno
