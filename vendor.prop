@@ -199,9 +199,6 @@ vendor.gralloc.secure_preview_buffer_format=420_sp
 vendor.opengles.version=196610
 
 # Ringtones
-ro.config.ringtone=Over_the_Horizon.ogg
-ro.config.notification_sound=Spaceline.ogg
-ro.config.alarm_alert=Homecoming.ogg
 ro.config.media_sound=Media_preview_Touch_the_light.ogg
 ro.config.ringtone_2=Atomic_Bell.ogg
 ro.config.notification_sound_2=Signal.ogg
