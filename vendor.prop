@@ -9,6 +9,7 @@ dalvik.vm.lockprof.threshold=500
 persist.sys.dalvik.vm.lib.2=libart.so
 
 # Audio
+ro.audio.monitorRotation=true
 aaudio.hw_burst_min_usec=2000
 aaudio.mmap_exclusive_policy=2
 aaudio.mmap_policy=2
